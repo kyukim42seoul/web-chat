@@ -1,0 +1,17 @@
+.ChatLogText {
+	display: flex;
+	margin-bottom: auto;
+	background-color: red;
+	
+}
+
+.NickName {
+	background-color: green;
+	width: 10%;
+}
+
+.Message {
+	background-color: blue;
+	bottom: 0;
+	width: 80%;
+}
